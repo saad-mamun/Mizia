@@ -9,7 +9,7 @@ function Hero() {
             <h1 className='text-[30px] md:text-[43px] lg:text-[64px] font-bold text-white'>More <span className='font-medium italic'>leads</span>,<br /> less <span className='italic font-medium'>people</span>.</h1>
             <p className='py-2 text-base md:text-[20px] opacity-50 text-white max-w-[450px]'>Train an aiDR on your ICP and messaging matrix. Activate it on a patch. It will send personalized sequences to every target contact.</p>
             <div className='pt-4'>
-               <button className=' md:py-2.5 px-2 md:px-4 rounded-full bg-[#0FF1F6]   hover:bg-[#5ad0d9] text-[#002228] font-semibold'  >
+               <button className='w-[327px] md:w-[216px] py-2.5 px-2 md:px-4 rounded-full bg-[#0FF1F6]   hover:bg-[#5ad0d9] text-[#002228] font-semibold'  >
                 Sign Up for the Beta  
                 <ArrowOutwardIcon></ArrowOutwardIcon>
                 </button>

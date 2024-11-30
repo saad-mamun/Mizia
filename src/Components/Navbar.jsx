@@ -8,7 +8,7 @@ function Navbar() {
       <div className='container mx-auto  py-2 md:py-4 lg:py-6 px-4   flex items-center justify-between '>
          <div>
           <a href="">
-            <img src="public/Logo.png" alt="MIZIA" />
+            <img src="public/LogoTop.png" alt="MIZIA" />
           </a>
          </div>
 
